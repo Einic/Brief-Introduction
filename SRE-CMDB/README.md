@@ -14,3 +14,5 @@
 ![Image text](https://github.com/Einic/Brief-Introduction/blob/master/SRE-CMDB/03.png)  
 ![Image text](https://github.com/Einic/Brief-Introduction/blob/master/SRE-CMDB/04.png)  
 ![Image text](https://github.com/Einic/Brief-Introduction/blob/master/SRE-CMDB/05.png)  
+![Image text](https://github.com/Einic/Brief-Introduction/blob/master/SRE-CMDB/06.png)  
+![Image text](https://github.com/Einic/Brief-Introduction/blob/master/SRE-CMDB/07.png)  
